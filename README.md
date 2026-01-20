@@ -44,4 +44,4 @@
     - Improved clarity and usability of customer performance reporting  
 
 6. Screenshot  
-  - ![Customer & Revenue Analysis Dashboard](screenshots/data_analysis_reporting_dashboard.png)
+   ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/territory_lookup_dashboard.png)
