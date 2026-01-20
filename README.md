@@ -43,6 +43,7 @@
     - Highlighted behavioral differences across income and occupation segments  
     - Improved clarity and usability of customer performance reporting  
 
-6. Screenshot  
-   ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/territory_lookup_dashboard.png)
+6. Screenshot
+
+    ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/territory_lookup_dashboard.png)
    ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/Customer_detail.png)
