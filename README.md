@@ -45,4 +45,4 @@
 
 6. Screenshot  
    ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/territory_lookup_dashboard.png)
-   ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/territory_lookup_dashboard.png)
+   ![Customer & Revenue Analysis Dashboard](https://github.com/ganeshtutika0/Territory_Lookup_Dashboard/blob/main/Customer_detail.png)
