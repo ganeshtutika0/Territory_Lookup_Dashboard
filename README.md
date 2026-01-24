@@ -1,4 +1,4 @@
-# Data Analysis & Reporting Project (Power BI, Excel, SQL)
+# Data Analysis & Reporting Project (Power BI, Excel)
 
 1. **Project Title**  
   - Data Analysis & Reporting Dashboard – Customer & Revenue Insights
